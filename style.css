@@ -1,0 +1,220 @@
+body {
+    background-color: #FFF;
+}
+
+.header {
+    font-family: 'Merriweather', serif;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(images/Banner.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    margin: 120px;
+    border-radius: 16px;
+    color: #FFF;
+}
+
+.tiny-year {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 150px;
+}
+
+.large-year {
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.highlight {
+    color: #F00;
+}
+
+.text {
+    padding-top: 12px;
+    padding-bottom: 15px;
+}
+
+.off {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin: 120px;
+}
+
+.disc {
+    font-size: 88px;
+    font-weight: 700px;
+    color: #F00;
+    margin-bottom: 48px;
+}
+
+.deals {
+    margin-top: 0px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #F00;
+    margin-bottom: 2px;
+}
+
+.categories {
+    margin-top: 5px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+}
+
+.midnight-party {
+    margin-top: 120px;
+    font-family: 'Merriweather', serif;
+    background-image: url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px 120px 140px;
+    border-radius: 16px;
+    color: #FFF;
+    display: flex;
+}
+
+.text-area {
+    text-align: left;
+    display: inline;
+    padding: 120px 400px 300px 125px;
+}
+
+.welcome {
+    margin-top: 10px;
+    font-family: 'Merriweather', serif;
+    font-size: 55px;
+    font-weight: 900;
+
+}
+
+.invitation {
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.join-btn {
+    font-family: 'Inter';
+    background: #e6d00a;
+    border: 0;
+    font-size: 10px;
+    color: rgb(182, 55, 241);
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 4px;
+    
+}
+.number{
+    display: flex;
+    width: 320px;
+    height: 465px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 68px;
+    margin-right: 138px;
+    margin-bottom: 67px;
+
+}
+.address-time{
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+
+
+    ;
+    text-align: center;
+    height: 480px;
+    width: 1320px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+.address{
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.address-text{
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 400px;
+}
+#orange-btn{
+    font-family: 'Inter';
+    background: #F00;
+    border: 0;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    padding: 16px 32px;
+    border-radius: 8px;
+    gap: 10px;
+}
+.new-best-offer{
+    margin: 120px;
+}
+.coming-soon{
+    float: left;
+    width: 30%;
+    width: 186px;
+    padding: 20px;
+    margin-right: 110px;
+
+}
+.image{
+    float: left;
+    width: 30%;
+    width: 364px;
+    padding: 20px;
+    border: 15px solid #f00;
+    border-radius: 50%;
+    margin-right: 110px;
+}
+.year{
+    float: left;
+    width: 30%;
+    width: 134px;
+    padding: 20px;
+    margin-right: 110px;
+}
+.offer{
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+}
+#sooner{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.offer-details{
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+}
+/* .holiday{
+    margin: 50px;
+    padding: 40px;
+    width: 1600px;
+    height: 7335px;
+   
+}
+.functional{
+    color: #070211;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 400;
+}
+.holiday-sale{
+    font-family: 'Merriweather';
+    font-size: 72px;
+    font-weight: 900;
+}
+.holiday-sale-details{
+    font-family: 'Inter';
+    font-size: 20px;
+
+} */
